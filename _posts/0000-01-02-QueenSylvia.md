@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Hi, enjoy this please send me your approval of it.
 Use the left arrow to go back!
